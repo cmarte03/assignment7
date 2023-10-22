@@ -1,4 +1,4 @@
-{
+let data = {
     "products": [{
             "name":"Iced Vanilla Latte",
             "description":"Espresso, vanilla syrup, milk, ice",
@@ -92,4 +92,4 @@
             "categories":["Iced drink", "Tea"]
         }
     ]
-}
+};
