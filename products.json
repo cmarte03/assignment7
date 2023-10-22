@@ -1,0 +1,95 @@
+{
+    "products": [{
+            "name":"Iced Vanilla Latte",
+            "description":"Espresso, vanilla syrup, milk, ice",
+            "size":"Medium",
+            "price":5,
+            "categories":["Iced drink", "Coffee"]
+        },
+
+        {
+            "name":"Iced Caramel Macchiato",
+            "description":"Espresso, caramel sauce, vanilla syrup, milk, ice",
+            "size":"Small",
+            "price":4,
+            "categories":["Iced drink", "Coffee"]
+        },
+        {
+            "name":"Cappuccino",
+            "description":"Espresso, steamed milk, milk foam",
+            "size":"Small",
+            "price":4,
+            "categories":["Hot drink", "Coffee"]
+        },
+        {
+            "name":"Hot Pumpkin Spice Latte",
+            "description":"Espresso, pumpkin sauce, vanilla syrup, steamed milk, pumpkin spice topping",
+            "size":"Large",
+            "price":6,
+            "categories":["Hot drink", "Coffee"]
+        },
+        {
+            "name":"Iced Matcha Tea Latte",
+            "description":"Matcha powder, honey, milk",
+            "size":"Medium",
+            "price":5,
+            "categories":["Iced drink", "Tea"]
+        },
+        {
+            "name":"English Breakfast Tea Latte",
+            "description":"English breakfast tea, honey, milk",
+            "size":"Small",
+            "price":4,
+            "categories":["Hot drink", "Tea"]
+        },
+        {
+            "name":"Hot Chai Tea Latte",
+            "description":"Chai, milk",
+            "size":"Medium",
+            "price":5,
+            "categories":["Hot drink", "Tea"]
+        },
+        {
+           "name":"Iced Chai Tea Latte",
+            "description":"Chai, milk, ice",
+            "size":"Large",
+            "price":6,
+            "categories":["Iced drink", "Tea"]
+        },
+        {
+            "name":"Hot Peach Tea",
+            "description":"Peach tea, water, milk",
+            "size":"Small",
+            "price":4,
+            "categories":["Hot drink", "Tea"]
+        },
+        {
+            "name":"Caramel Cream Cold Brew",
+            "description":"Espresso, milk, caramel cream, vanilla syrup, caramel syrup",
+            "size":"Small",
+            "price":4,
+            "categories":["Hot drink", "Coffee"]
+        },
+        {
+            "name":"Iced Mocha",
+            "description":"Espresso, milk, cocoa powder, ice, whipped cream, ice",
+            "size":"Medium",
+            "price":5,
+            "categories":["Iced drink", "Coffee"]
+        },
+        {
+            "name":"Iced London Fog Tea Latte",
+            "description":"Earl grey tea, vanilla, honey, milk, ice",
+            "size":"Large",
+            "price":6,
+            "categories":["Iced drink", "Tea"]
+        },
+        {
+            "name":"Iced Black Tea",
+            "description":"Black tea, water, ice",
+            "size":"Small",
+            "price":4,
+            "categories":["Iced drink", "Tea"]
+        }
+    ]
+}
