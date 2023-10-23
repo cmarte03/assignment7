@@ -68,7 +68,7 @@
             "description":"Espresso, milk, caramel cream, vanilla syrup, caramel syrup",
             "size":"Small",
             "price":4,
-            "categories":["Cold drink", "Coffee"]
+            "categories":["Iced drink", "Coffee"]
         },
         {
             "name":"Iced Mocha",
